@@ -871,6 +871,7 @@ a:visited {
   height: 81px;
   width: 250px;
   border: 2px solid #212121;
+  cursor: pointer;
   /* font-size: 10px; */
 }
 
@@ -1275,8 +1276,14 @@ a:visited {
   width: 50%;
   min-width: 360px;
   filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.2));
+  scale: 100%;
+  transition: scale 1s ease;
   /* height: 40%; */
   /* justify-content: flex-end; */
+}
+
+.bigcard img:hover{
+  scale: 105%;
 }
 
 @media (max-width: 400px){
@@ -1333,6 +1340,13 @@ a:visited {
   text-align: center;
   border-radius: 10px;
   background: radial-gradient(circle at 0, #5ce1e6, #007aff);
+  cursor: pointer;
+  scale: 100%;
+  transition: scale 1s ease;
+}
+
+.sec4 #earn:hover{
+  scale: 110%;
 }
 
 /* Section 5 */
