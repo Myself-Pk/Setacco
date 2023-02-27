@@ -1,0 +1,13 @@
+<svg width="65" height="65" viewBox="0 0 65 65" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="32.5" cy="32.5" r="32.5" fill="url(#paint0_linear-busd)"/>
+    <rect x="28.428" y="44.6488" width="22.9404" height="5.71987" transform="rotate(-45 28.428 44.6488)" fill="white"/>
+    <rect x="22.3391" y="38.5612" width="22.9404" height="5.71987" transform="rotate(-45 22.3391 38.5612)" fill="white"/>
+    <rect x="22.3391" y="26.3829" width="14.33" height="5.71987" transform="rotate(-45 22.3391 26.3829)" fill="white"/>
+    <rect x="16.2527" y="32.4714" width="5.71972" height="5.71987" transform="rotate(-45 16.2527 32.4714)" fill="white"/>
+    <defs>
+        <linearGradient id="paint0_linear-busd" x1="6" y1="1.75616e-06" x2="46.8382" y2="65" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#F3BA2F"/>
+            <stop offset="1" stop-color="#F6CC65"/>
+        </linearGradient>
+    </defs>
+</svg>
